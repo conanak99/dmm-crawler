@@ -1,0 +1,8 @@
+{
+  "name": "dmm-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:conanak99/dmm-crawler.git",
+  "author": "Harry Pham <harrypham@swatmobile.io>",
+  "license": "MIT"
+}
