@@ -9,6 +9,6 @@
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "jp-conversion": "^0.0.7",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
